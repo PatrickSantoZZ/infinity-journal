@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>infinity-journal UI</title>
+  <link rel="stylesheet" href="main.css" />
+  <script type="text/javascript" src="list.js"></script>
+  <script type="text/javascript" src="main.js"></script>
+</head>
+
+<body>
+  <div id="header">
+    <span>Infinity Journal UI</span>
+    <button id="reload">Reload</button>
+  </div>
+  <div id="body">
+    <div id="left">
+      <div id="list">
+        <span id="search">Search:&nbsp;<input type="text" class="fuzzy-search" /></span>
+        <div id="container">
+          <ul class="list"></ul>
+        </div>
+      </div>
+    </div>
+    <div id="right">
+      <span id="name">Name:</span>
+      <span id="name_text">---</span>
+      <span id="province">Province:</span>
+      <span id="province_text">---</span>
+      <br />
+      <span id="zone" title="zone">---</span>
+      <span id="x" title="x">---</span>
+      <span id="y" title="y">---</span>
+      <span id="z" title="z">---</span>
+      <br />
+      <span class="buttonrow">
+        <button id="teleport">Teleport</button>
+      </span>
+      <br />
+      <span class="buttonrow">
+        <button id="delete">Delete</button>
+      </span>
+    </div>
+  </div>
+</body>
+</html>

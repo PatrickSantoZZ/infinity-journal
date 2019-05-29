@@ -1,0 +1,30 @@
+{
+    "files": {
+        "README.md": "916a615e4bc7c846a011b06c886a4f7030477a4831fa3d8f2c7cbad2c91c6999",
+        "commands.js": "2425b61405719699332ba97a9ddd7f3f860de8e13279a30622f937e951e17dee",
+        "index.js": "5c0d9bcefa6329e1fbfa60b4c2dcae7a27ed7648954a5e076913c4be5457b4d7",
+        "module.json": "23020e5e1ddb33e42d1f907798a3f62f44eb16a683094d23f92f0dc43b8b73e8",
+        "ui.js": "4454b25931f0a8736e6604d3f8d3de34380373b62b5f02429d1e6553cc46c2fa",
+        "ui/index.html": "8ab93cd9f79a84e34398d332c8c84d947e4a27bbad3be42e28e65a10aa171eff",
+        "ui/list.js": "6e8ee6c8c7aef7ca3916c368f609c48aa9ec1cf431ee842e70c4a85650735fc0",
+        "ui/main.css": "6ec966091c802d1723dc91124cc1e07268c72db79399ff62bd5b2393c5531c15",
+        "ui/main.js": "6f1fb2a85d6fceb88d05ecc60dcf33f3f1a66585ae6f7924c554c5137cfd8db4",
+        "ui/nekoneko.jpg": "b4cdd7f26237cbe44fe532a7c915136695c62e8caf08001d059c56d58adba675",
+        "utils.js": "d66040ece849dcbdc8bb0cf811d98f63b7c6365e0537e652cce7783d37cdc014"
+    },
+    "defs": {
+        "C_ADD_TELEPORT_TO_POS_LIST": 1,
+        "C_DELETE_TELEPORT_TO_POS_LIST": 1,
+        "C_TELEPORT_TO_POS": 1,
+        "C_TELEPORT_TO_VILLAGE": 1,
+        "C_USE_PREMIUM_SLOT": 1,
+        "S_ACTION_END": 5,
+        "S_LOAD_TELEPORT_TO_POS_LIST": 1,
+        "S_LOAD_TOPO": 3,
+        "S_LOGIN": 13,
+        "S_PREMIUM_SLOT_DATALIST": 2,
+        "S_REQUEST_CONTRACT": 1,
+        "S_SPAWN_ME": 3,
+        "S_VILLAGE_LIST_TO_TELEPORT": 1
+    }
+}
