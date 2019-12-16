@@ -32,7 +32,7 @@ function journalOptions(...args) {
     }
     return;
   }
-  if (this.currentContract !== 54) {
+  if (this.currentContract !== 55) {
     return this.cmd.message(`<font color="#ff0000">Travel journal must be open to save custom locations.</font>`);
   }
   const name = args.join(" ").split(":");

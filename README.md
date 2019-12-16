@@ -21,5 +21,5 @@ To add new entries:
 Deleting entries works as normal. Server entries are marked with an asterisk (*)
 after their Province. 
 
-You must have 4 or less server-side Travel Journal entries to add custom
+You must have 9 or less server-side Travel Journal entries to add custom
 locations, and must have Elite to teleport to custom locations.

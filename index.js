@@ -179,7 +179,7 @@ function InfiniteJournalism(_) {
     _.command.add("journal", journalOptions, ctx);
 
     const r = "raw";
-    hook("S_LOGIN", 13, onLogin);
+    hook("S_LOGIN", 14, onLogin);
     hook("S_SPAWN_ME", 3, teleportTo);
     hook("S_LOAD_TOPO", 3, teleportTo);
     hook("S_ACTION_END", 5, onActionEnd);

@@ -73,3 +73,5 @@ module.exports = {
   customLocations,
   getCustomLocations
 };
+
+
